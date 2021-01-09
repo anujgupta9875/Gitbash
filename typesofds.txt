@@ -1,2 +1,2 @@
 
-Array Linklist Tree Graph
+Data Satructure - Array Linklist Tree Graph
